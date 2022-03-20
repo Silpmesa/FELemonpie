@@ -1,0 +1,9 @@
+.titulo {background-color:#C4C4C4; text-align: center; color: #005677; 
+   ; font-weight: 700; font-weight: bold
+text-size 35px}
+h2 {background-color:#C4C4C4; color: #005677; 
+; font-weight: 700; font-weight: bold
+text-size 20px}
+footer {background-color: #b3d7e6; font-weight: 700;
+font-size: 20px; color: white; text-align: center; max-height: max-content;border: yellow;}
+.banner {background-image: url(/Imagenes/banner.webp); background-repeat: repeat-x;}

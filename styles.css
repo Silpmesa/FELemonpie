@@ -1,0 +1,14 @@
+.derechos { text-align: center; background-color: orange; color: white }
+.encabezado {background-color: black; color: white; font-size: 10px;}
+.encabezado2 {background-color: orange; color: white; font-size: 13px; font-weight: 400;}
+h1 {text-align: center; font-size: 30px; font-weight: 400;}
+.imagen1 {background-image: url(bowl-and-pet-daities-on-green-background.jpg);background-repeat: no-repeat; background-size: contain; background-color: rgb(116, 180, 145);}
+#descuento {text-align: center; font-size: 16px; }
+#come {text-align: center; background-color: #F0A83E; font-size: 16px; 
+    font-weight: bold; color: white; background-size: 10cm;}
+.productos {background-color: lightgray;}
+.monto1 {color: #F0A83E;} 
+.monto2 {color: #F0A83E;}
+.monto3 {color: #F0A83E;}
+.contacto {background-color: #3C2313; color: white;}
+.contacto p {font-size: 25px; font-weight: bold;}
